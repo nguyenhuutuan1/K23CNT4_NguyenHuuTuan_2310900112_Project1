@@ -14,7 +14,7 @@ class nht_SAN_PHAMTableSeeder extends Seeder
     {
         $products = [
             [
-                'nhtMaSanPham' => 'SS001',
+                'nhtMaSanPham' => 'AB001',
                 'nhtTenSanPham' => 'bim oishi',
                 'nhtHinhAnh' => asset('img/san_pham/bim-oishi.webp'),
                 'nhtSoLuong' => 23,
@@ -24,7 +24,7 @@ class nht_SAN_PHAMTableSeeder extends Seeder
                 'nhtTrangThai' => 0,
             ],
             [
-                'nhtMaSanPham' => 'IP001',
+                'nhtMaSanPham' => 'BC001',
                 'nhtTenSanPham' => 'COCACOLA',
                 'nhtHinhAnh' => asset('img/san_pham/COCACOLA.webp'),
                 'nhtSoLuong' => 50,
