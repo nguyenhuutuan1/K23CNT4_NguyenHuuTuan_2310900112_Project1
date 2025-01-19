@@ -14,7 +14,7 @@ class nht_QUAN_TRIController extends Controller
     // Hiển thị trang đăng nhập
     public function nhtLogin()
     {
-        return view('nhtAdmins.nht-login');
+        return view('admins.nhtLogin');
     }
 
     // Xử lý đăng nhập

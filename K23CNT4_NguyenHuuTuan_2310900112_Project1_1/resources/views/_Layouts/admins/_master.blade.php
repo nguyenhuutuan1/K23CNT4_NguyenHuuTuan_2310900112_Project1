@@ -148,7 +148,7 @@
 
     <!-- Footer -->
     <footer>
-        &copy; 2025 Duy Khánh Store. All Rights Reserved.
+        &copy; 2025 Huu Tuan Store. All Rights Reserved.
     </footer>
 
     <!-- Thêm ảnh quảng cáo dưới footer -->

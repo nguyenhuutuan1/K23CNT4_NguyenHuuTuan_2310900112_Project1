@@ -67,10 +67,7 @@ Route::get('/nht-admins/nht-loai-san-pham/nht-detail/{id}',[nht_LOAI_SAN_PHAMCon
 // delete
 Route::get('/nht-admins/nht-loai-san-pham/nht-delete/{id}',[nht_LOAI_SAN_PHAMController::class,'nhtDelete'])->name('nhtadmin.nhtloaisanpham.nhtDelete');
 
-// Route xử lý giỏ hàng
-Route::post('/add-to-cart', [CartController::class, 'addToCart'])->name('cart.add');
-Route::get('/cart', [CartController::class, 'showCart'])->name('cart.show');
-Route::post('/cart/remove', [CartController::class, 'removeFromCart'])->name('cart.remove');
+
 
 
 

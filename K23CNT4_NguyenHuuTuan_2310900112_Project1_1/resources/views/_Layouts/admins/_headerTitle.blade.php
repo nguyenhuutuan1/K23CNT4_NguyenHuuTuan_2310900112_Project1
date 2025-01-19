@@ -35,7 +35,7 @@
 
         <!-- Account Info -->
         <div class="account-info d-flex align-items-center">
-            <span>Xin chào, Duy Khánh</span>
+            <span>Xin chào, Huu Tuan</span>
             <a href="{{ route('admins.nhtLogin') }}">Đăng xuất</a>
         </div>
     </div>
